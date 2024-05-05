@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "499426394666",
+    "firebase_url": "https://grocereats-46159-default-rtdb.firebaseio.com",
+    "project_id": "grocereats-46159",
+    "storage_bucket": "grocereats-46159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499426394666:android:463e80f89c5f8b57baf953",
+        "android_client_info": {
+          "package_name": "com.example.grocereats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499426394666-d15lt8tre1nkt80rp118p8u3e1rhho3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocereats",
+            "certificate_hash": "93ecb07fa4bb522ed54a5db31f7551115146cad7"
+          }
+        },
+        {
+          "client_id": "499426394666-ebnj1jrrm2562f0g3o9utagreplf125h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOwXtqWZIklBh8jCsLTQBflIKBI4gGQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499426394666-ebnj1jrrm2562f0g3o9utagreplf125h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
